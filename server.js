@@ -3,7 +3,7 @@ import { GoogleGenerativeAI } from '@google/generative-ai'; //library mtaa gemin
 import cors from 'cors'; // library mtaa securite lel api
 
 const app = express(); //tasna3 el api
-const PORT = 9000; //ta5tar el port mtaa el pc
+const PORT = 10000; //ta5tar el port mtaa el pc
 
 // Use the CORS middleware
 app.use(cors());
